@@ -11,7 +11,7 @@ This personal project focuses on calculating and analyzing the beta of Starbucks
 
 ## How to Use:
 1. Open the Excel file (`Fama-French-Beta-Analysis-SBUX-Pre-During-Pandemic`) to explore the data and results.
-2. Open the Docx file ('Report on Results') for explanations on the results.
+2. Open the PDF file ('Report on Results') for explanations on the results.
 4. Review the regression statistics, coefficients, and analysis for both pre-pandemic and pandemic periods.
 
 ## Project Context:
