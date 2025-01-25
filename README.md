@@ -7,7 +7,7 @@ This personal project focuses on calculating and analyzing the beta of Starbucks
 - **HML (Value vs. Growth)**: Represents the difference in returns between value stocks and growth stocks.
 
 ## Files:
-- **Excel File**: `SBUX_Fama_French_Analysis.xlsx` – Contains regression results and coefficient analysis.
+- **Excel File**: `Fama-French-Beta-Analysis-SBUX-Pre-During-Pandemic.xlsx` – Contains regression results and coefficient analysis.
 
 ## How to Use:
 1. Open the Excel file (`Fama-French-Beta-Analysis-SBUX-Pre-During-Pandemic`) to explore the data and results.
